@@ -1,0 +1,7 @@
+Requirements for the Assignment
+
+requests
+pandas
+matplotlib
+seaborn
+API key
